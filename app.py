@@ -1,6 +1,7 @@
 from flask import Flask
 from flask import render_template 
 from flask import g
+import csv
 import sqlite3
 
 app = Flask(__name__)
@@ -31,4 +32,5 @@ def index():
 def upload():
     file = request.files['file']
     db = get_db().cursor()
+
     

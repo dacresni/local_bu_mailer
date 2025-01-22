@@ -1,0 +1,1 @@
+ID varchar LOCAL	integer Local_Date	EMP #	MBR TYPE	MBR TYPE DATE	MBR STATUS	JOB STATUS	Hire Date	LAST	FIRST	Middle Name	ADDR1	ADDR2	City	ST	ZIP	WORK LOCATION	DEPT/DIV	JOB TITLE NAME	Work Phone	Home Email	Home Cell	Work Email	UnionWare Member ID		
