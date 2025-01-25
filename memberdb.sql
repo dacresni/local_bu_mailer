@@ -1,1 +1,27 @@
-ID string LOCAL	integer Local_Date	string EMP_NO	text MBR_TYPE	integer MBR_TYPE_DATE	text MBR_STATUS	text JOB_STATUS	integer Hire_Date	text LAST_Name	text FIRST_Name	text Middle_Name	text ADDR1	text ADDR2	text City	text ST	text ZIP	text WORK_LOCATION	text DEPT/DIV	JOB_TITLE_NAME	text Work_Phone	text Home_Email	text Home_Cell	text Work_Email	text UnionWare_Member_ID		
+create table members (
+  integer ID,
+  string LOCAL,
+  integer Local_Date,
+  string EMP_NO,
+  text MBR_TYPE,
+  integer MBR_TYPE_DATE,
+  text MBR_STATUS,
+  text JOB_STATUS,
+  integer Hire_Date,
+  text LAST_Name,
+  text FIRST_Name,
+  text Middle_Name,
+  text ADDR1,
+  text ADDR2,
+  text City,
+  text ST,
+  text ZIP,
+  text WORK_LOCATION,
+  text DEPT_DIV,
+  text JOB_TITLE_NAME,
+  text Work_Phone,
+  text Home_Email,
+  text Home_Cell,
+  text Work_Email,
+  text UnionWare_Member_ID
+);
